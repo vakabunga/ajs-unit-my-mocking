@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1588804034426" clover="3.2.0">
+  <project timestamp="1588804034426" name="All files">
+    <metrics statements="6" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="2" elements="11" coveredelements="9" complexity="0" loc="6" ncloc="6" packages="1" files="2" classes="2"/>
+    <file name="app.js" path="D:\GitReps\#my-homeworks\ajs-myhomeworks\my-unit-test\ajs-unit-my-mocking\src\js\app.js">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="13" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+    </file>
+    <file name="http.js" path="D:\GitReps\#my-homeworks\ajs-myhomeworks\my-unit-test\ajs-unit-my-mocking\src\js\http.js">
+      <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="10" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
